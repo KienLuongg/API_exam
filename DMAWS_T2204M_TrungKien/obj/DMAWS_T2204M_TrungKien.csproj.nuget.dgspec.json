@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Projects/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj": {}
+    "/Users/user/Desktop/API_exam/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj": {}
   },
   "projects": {
-    "/Users/user/Projects/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj": {
+    "/Users/user/Desktop/API_exam/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Projects/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj",
+        "projectUniqueName": "/Users/user/Desktop/API_exam/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj",
         "projectName": "DMAWS_T2204M_TrungKien",
-        "projectPath": "/Users/user/Projects/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj",
+        "projectPath": "/Users/user/Desktop/API_exam/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Projects/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien/obj/",
+        "outputPath": "/Users/user/Desktop/API_exam/DMAWS_T2204M_TrungKien/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"

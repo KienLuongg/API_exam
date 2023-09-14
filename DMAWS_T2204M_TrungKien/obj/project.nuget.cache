@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "btPj5Ix8QoVYHiPFXYTzbZ/sKm8HQASSXeqDB7EjL7trKxejwNQ/6zIuWwHsUT76wc2j2d5PgV2VsOL4VLyS4A==",
+  "dgSpecHash": "b/sHcVHbBNLD+rnecWu4ZAQ17bh3ns0IbFRoOJxyNMgxlHYvrLPWr+27e11HlSNhKBnIp7lLTQdsDbOvDRc8rA==",
   "success": true,
-  "projectFilePath": "/Users/user/Projects/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj",
+  "projectFilePath": "/Users/user/Desktop/API_exam/DMAWS_T2204M_TrungKien/DMAWS_T2204M_TrungKien.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/user/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

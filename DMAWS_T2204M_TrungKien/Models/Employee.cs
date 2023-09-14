@@ -13,6 +13,7 @@ namespace DMAWS_T2204M_TrungKien.Models
 
         [Required]
         [DataType(DataType.Date)]
+        [Range(16,100)]
         public DateTime EmployeeDOB { get; set; }
 
         [Required]
